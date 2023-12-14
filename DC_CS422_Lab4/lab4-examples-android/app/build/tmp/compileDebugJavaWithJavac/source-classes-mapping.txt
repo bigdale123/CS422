@@ -1,0 +1,6 @@
+cs/mad/flashcards/databinding/ActivityMainBinding.java
+ cs.mad.flashcards.databinding.ActivityMainBinding
+cs/mad/flashcards/BuildConfig.java
+ cs.mad.flashcards.BuildConfig
+cs/mad/flashcards/databinding/ActivityLab4ExampleBinding.java
+ cs.mad.flashcards.databinding.ActivityLab4ExampleBinding
